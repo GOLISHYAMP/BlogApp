@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask_bcrypt
+# cryptography
+email_validator
+flask_login
+flask_cors
+pillow
+flask-mail
+
+# Flask-APScheduler
